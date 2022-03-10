@@ -1,3 +1,22 @@
+/* Sommaire 
+      *:
+      html: 
+      :root : 
+      body :
+      header :
+      Les 3 div + main :
+      accroche :
+      nav :
+      mid-header :
+      contacter :
+      section :
+      entete :
+      footer :
+      fieldset :
+      classes secondaires (.ecusson,.logo, #specialbutton,...) :
+      balises (li,h1,h2,a...) :
+      @media:
+*/
 * {
   box-sizing: border-box;
 }
